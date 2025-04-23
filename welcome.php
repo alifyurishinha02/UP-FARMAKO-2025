@@ -1,0 +1,1 @@
+<h1 class="mt-4 mb-0 text-center">Selamat Datang Di Aplikasi E-Train </h1>
